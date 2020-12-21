@@ -90,7 +90,7 @@ And many more...<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=samir-0711&hide_border=true&show_icons=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-0711&hide_border=true&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-0711&hide_border=true&show_icons=true"> -->
 
 ➡ You can reach out to me at **prajapatisamir200@gmail.com**<br>
 
