@@ -2,7 +2,7 @@
 
 🎓 I'm a 3rd Year Student at IIIT Vadodara 🏛 currently pursuing Bachelor's in Computer Science and Engineering. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. <br>
 
-⚡ I am looking for Opportunities as an 𝗜𝗻𝘁𝗲𝗿𝗻 in the field of <b>Full Stack Development</b>, <b>Software Developement Engineer</b>, and <b>Android App Developer</b>. <br>
+⚡ I am looking for Opportunities as an 𝗜𝗻𝘁𝗲𝗿𝗻 in the field of <b>Full Stack Development</b> and <b>Software Developement Engineer</b>. <br>
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
@@ -17,7 +17,7 @@
 
     * [**Drop a Mail**](mailto:prajapatisamir200@gmail.com)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/samir-prajapati-4600831b4/)
+    * [**Connect via LinkedIn**](https://www.linkedin.com/in/samir0711/)
 
 - 😄 Pronouns: **He/Him**
 
