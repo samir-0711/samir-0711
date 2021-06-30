@@ -2,7 +2,7 @@
 
 🎓 I'm a 3rd Year Student at IIIT Vadodara 🏛 currently pursuing Bachelor's in Computer Science and Engineering. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. <br>
 
-⚡ I am looking for Opportunities as an 𝗜𝗻𝘁𝗲𝗿𝗻 in the field of <b>Full Stack Development</b> and <b>Software Developement Engineer</b>. <br>
+⚡ I am looking for Opportunities as an 𝗜𝗻𝘁𝗲𝗿𝗻 in the field of <b>Full Stack Development</b> and <b>Software Development Engineer</b>. <br>
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
