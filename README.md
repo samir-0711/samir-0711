@@ -1,8 +1,8 @@
 # Hello, I'm Samir Prajapati!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-🎓 I'm a 3rd Year Student at IIIT Vadodara 🏛 currently pursuing Bachelor's in Computer Science and Engineering. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. <br>
+🎓 I'm a 4th Year Student at IIIT Vadodara 🏛 currently pursuing Bachelor's in Computer Science and Engineering. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. <br>
 
-⚡ I am looking for Opportunities as an 𝗜𝗻𝘁𝗲𝗿𝗻 in the field of <b>Full Stack Development</b> and <b>Software Development Engineer</b>. <br>
+⚡ I am looking for Opportunities as an <b>Intern</b> or <b>Full Time</b> in the field of <b>Full Stack Development</b> and <b>Software Development Engineer</b>. <br>
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
@@ -53,7 +53,7 @@
 
 **Connect with me** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir-prajapati-4600831b4/)](https://www.linkedin.com/in/samir-prajapati-4600831b4/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir0711/)](https://www.linkedin.com/in/samir0711/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:prajapatisamir200@gmail.com)](mailto:prajapatisamir200@gmail.com)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-orange?style=for-the-badge&logo=Leetcode&logoColor=white&link=https://leetcode.com/samir0711/)](https://leetcode.com/samir0711/)
 [![Dev Badge](https://img.shields.io/badge/-Dev-black?style=for-the-badge&logo=Dev&logoColor=white&link=https://dev.to/samir0711)](https://dev.to/samir0711)
@@ -83,6 +83,7 @@
 💻 𝗦𝗼𝗺𝗲 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀: <br>
 ⪢ Covid19 Cases Detail Using Python Web Scrapping (Python)<br>
 ⪢ Organization Service Booking System (Java)<br>
+⪢ Todo Application (MERN Stack)<br>
 And many more...<br>
 
 
