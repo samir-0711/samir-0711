@@ -95,4 +95,8 @@ And many more...<br>
 
 ➡ You can reach out to me at **prajapatisamir200@gmail.com**<br>
 
+<p align="center">
+  <img src="https://github.com/samir-0711/samir-0711/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
